@@ -9,3 +9,14 @@ C:\Users\HP\source\repos\Talabat.Apis\Talabat.core\obj\Debug\net8.0\Talabat.core
 C:\Users\HP\source\repos\Talabat.Apis\Talabat.core\obj\Debug\net8.0\refint\Talabat.core.dll
 C:\Users\HP\source\repos\Talabat.Apis\Talabat.core\obj\Debug\net8.0\Talabat.core.pdb
 C:\Users\HP\source\repos\Talabat.Apis\Talabat.core\obj\Debug\net8.0\ref\Talabat.core.dll
+E:\Talabat.Apis\Talabat.core\bin\Debug\net8.0\Talabat.core.deps.json
+E:\Talabat.Apis\Talabat.core\bin\Debug\net8.0\Talabat.core.dll
+E:\Talabat.Apis\Talabat.core\bin\Debug\net8.0\Talabat.core.pdb
+E:\Talabat.Apis\Talabat.core\obj\Debug\net8.0\Talabat.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Talabat.Apis\Talabat.core\obj\Debug\net8.0\Talabat.core.AssemblyInfoInputs.cache
+E:\Talabat.Apis\Talabat.core\obj\Debug\net8.0\Talabat.core.AssemblyInfo.cs
+E:\Talabat.Apis\Talabat.core\obj\Debug\net8.0\Talabat.core.csproj.CoreCompileInputs.cache
+E:\Talabat.Apis\Talabat.core\obj\Debug\net8.0\Talabat.core.dll
+E:\Talabat.Apis\Talabat.core\obj\Debug\net8.0\refint\Talabat.core.dll
+E:\Talabat.Apis\Talabat.core\obj\Debug\net8.0\Talabat.core.pdb
+E:\Talabat.Apis\Talabat.core\obj\Debug\net8.0\ref\Talabat.core.dll

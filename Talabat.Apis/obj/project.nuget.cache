@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ib3B8nV+RG8=",
+  "dgSpecHash": "7N2xMkAHNflYLHUaXdi7Jm3/1bbor076moWmQmOMIeK1xh6OESy64yY1/qcSB7kQTI4LL5JEXiyQr8IpPRKjaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Apis\\Talabat.Apis.csproj",
+  "projectFilePath": "E:\\Talabat.Apis\\Talabat.Apis\\Talabat.Apis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

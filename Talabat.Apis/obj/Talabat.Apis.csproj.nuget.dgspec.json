@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Apis\\Talabat.Apis.csproj": {}
+    "E:\\Talabat.Apis\\Talabat.Apis\\Talabat.Apis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Apis\\Talabat.Apis.csproj": {
+    "E:\\Talabat.Apis\\Talabat.Apis\\Talabat.Apis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Apis\\Talabat.Apis.csproj",
+        "projectUniqueName": "E:\\Talabat.Apis\\Talabat.Apis\\Talabat.Apis.csproj",
         "projectName": "Talabat.Apis",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Apis\\Talabat.Apis.csproj",
+        "projectPath": "E:\\Talabat.Apis\\Talabat.Apis\\Talabat.Apis.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Apis\\obj\\",
+        "outputPath": "E:\\Talabat.Apis\\Talabat.Apis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Repository\\Talabat.Repository.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Repository\\Talabat.Repository.csproj"
+              "E:\\Talabat.Apis\\Talabat.Repository\\Talabat.Repository.csproj": {
+                "projectPath": "E:\\Talabat.Apis\\Talabat.Repository\\Talabat.Repository.csproj"
               }
             }
           }
@@ -43,9 +43,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -85,18 +84,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.7.24407.12/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.core\\Talabat.core.csproj": {
+    "E:\\Talabat.Apis\\Talabat.core\\Talabat.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.core\\Talabat.core.csproj",
+        "projectUniqueName": "E:\\Talabat.Apis\\Talabat.core\\Talabat.core.csproj",
         "projectName": "Talabat.core",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.core\\Talabat.core.csproj",
+        "projectPath": "E:\\Talabat.Apis\\Talabat.core\\Talabat.core.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.core\\obj\\",
+        "outputPath": "E:\\Talabat.Apis\\Talabat.core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,9 +123,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -147,18 +145,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.7.24407.12/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Repository\\Talabat.Repository.csproj": {
+    "E:\\Talabat.Apis\\Talabat.Repository\\Talabat.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Repository\\Talabat.Repository.csproj",
+        "projectUniqueName": "E:\\Talabat.Apis\\Talabat.Repository\\Talabat.Repository.csproj",
         "projectName": "Talabat.Repository",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Repository\\Talabat.Repository.csproj",
+        "projectPath": "E:\\Talabat.Apis\\Talabat.Repository\\Talabat.Repository.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Repository\\obj\\",
+        "outputPath": "E:\\Talabat.Apis\\Talabat.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -176,8 +174,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.core\\Talabat.core.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.core\\Talabat.core.csproj"
+              "E:\\Talabat.Apis\\Talabat.core\\Talabat.core.csproj": {
+                "projectPath": "E:\\Talabat.Apis\\Talabat.core\\Talabat.core.csproj"
               }
             }
           }
@@ -190,9 +188,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -219,7 +216,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.7.24407.12/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

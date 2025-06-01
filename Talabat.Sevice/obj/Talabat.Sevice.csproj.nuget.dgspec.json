@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Sevice\\Talabat.Sevice.csproj": {}
+    "E:\\Talabat.Apis\\Talabat.Sevice\\Talabat.Sevice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Sevice\\Talabat.Sevice.csproj": {
+    "E:\\Talabat.Apis\\Talabat.Sevice\\Talabat.Sevice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Sevice\\Talabat.Sevice.csproj",
+        "projectUniqueName": "E:\\Talabat.Apis\\Talabat.Sevice\\Talabat.Sevice.csproj",
         "projectName": "Talabat.Sevice",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Sevice\\Talabat.Sevice.csproj",
+        "projectPath": "E:\\Talabat.Apis\\Talabat.Sevice\\Talabat.Sevice.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\Talabat.Apis\\Talabat.Sevice\\obj\\",
+        "outputPath": "E:\\Talabat.Apis\\Talabat.Sevice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,9 +39,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -62,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.7.24407.12/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
