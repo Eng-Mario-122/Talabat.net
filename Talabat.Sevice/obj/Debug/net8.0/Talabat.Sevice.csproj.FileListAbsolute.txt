@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Talabat.Apis\Talabat.Sevice\bin\Debug\net8.0\Talabat.Sevice.deps.json
+C:\Users\HP\source\repos\Talabat.Apis\Talabat.Sevice\bin\Debug\net8.0\Talabat.Sevice.dll
+C:\Users\HP\source\repos\Talabat.Apis\Talabat.Sevice\bin\Debug\net8.0\Talabat.Sevice.pdb
+C:\Users\HP\source\repos\Talabat.Apis\Talabat.Sevice\obj\Debug\net8.0\Talabat.Sevice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Talabat.Apis\Talabat.Sevice\obj\Debug\net8.0\Talabat.Sevice.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Talabat.Apis\Talabat.Sevice\obj\Debug\net8.0\Talabat.Sevice.AssemblyInfo.cs
+C:\Users\HP\source\repos\Talabat.Apis\Talabat.Sevice\obj\Debug\net8.0\Talabat.Sevice.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Talabat.Apis\Talabat.Sevice\obj\Debug\net8.0\Talabat.Sevice.dll
+C:\Users\HP\source\repos\Talabat.Apis\Talabat.Sevice\obj\Debug\net8.0\refint\Talabat.Sevice.dll
+C:\Users\HP\source\repos\Talabat.Apis\Talabat.Sevice\obj\Debug\net8.0\Talabat.Sevice.pdb
+C:\Users\HP\source\repos\Talabat.Apis\Talabat.Sevice\obj\Debug\net8.0\ref\Talabat.Sevice.dll
